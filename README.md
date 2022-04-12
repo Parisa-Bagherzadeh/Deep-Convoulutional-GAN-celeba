@@ -1,3 +1,11 @@
 # Celebrity Face Generation With Deep Convolutional GANs
-celeba dataset is used to generate face images
+Using celeba dataset  to generate faces with DCGAN
+
+
+
+![download](https://user-images.githubusercontent.com/71878421/163059222-7bd0ada7-cc93-4217-b1c4-1237ccd5782f.png)
+
+
+
+
 
